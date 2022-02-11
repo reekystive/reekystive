@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting my GitHub profile
 
-<!--
-**reekystive/reekystive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 I am currently a student at a university in Shanghai, China.
 
-Here are some ideas to get you started:
+🎹 I love music and like to build stuffs with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Welcome to chat with me on [Telegram]!
+
+### Technology makes the world better
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reekystive&include_all_commits=true&show_icons=true)
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reekystive&layout=compact)
