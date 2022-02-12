@@ -1,12 +1,10 @@
-### Hi there 👋 Thanks for visiting my GitHub profile
+### Hi there 👋
 
-📖 I am currently a student at a university in Shanghai, China.
+**Thanks for visiting my GitHub profile!**
 
-🎹 I love music and like to build stuffs with code.
-
-💬 Welcome to chat with me on [Telegram](https://t.me/ReekyStive) =w=
-
-### Technology makes the world better
+- 📖 I am currently a student at a university in Shanghai, China
+- 🎹 I love music and like to build stuffs with code
+- 💬 Welcome to chat with me on [Telegram](https://t.me/ReekyStive) =w=
 
 <img width="300px" align="left" alt="Profile image"
      src="https://user-images.githubusercontent.com/26853900/153685219-56022f94-a2ba-4e10-bf61-34213161ba00.png" />
