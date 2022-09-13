@@ -7,6 +7,9 @@
 - 🎹 I love music and like to build stuffs with code
 - 💬 Welcome to chat with me on [Telegram](https://t.me/ReekyStive) =w=
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <a href="#">
     <img alt="My skill icons"
@@ -21,7 +24,7 @@
   </a>
 </div>
 
-<div align="right">
+<div>
   <a href="#">
     <img alt="My GitHub stats"
          src="https://github-readme-stats.vercel.app/api?username=reekystive&include_all_commits=true&show_icons=true&hide_rank=true" />
