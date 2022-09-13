@@ -1,0 +1,19 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+    # for manual workflow trigger
+  schedule:
+    # runs at 12PM UTC every Sunday (20PM in Shanghai time)
+    - cron: '0 12 * * SUN'
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: 'Update waka-readme graph by GitHub Actions'
+          TIME_RANGE: 'last_year'
