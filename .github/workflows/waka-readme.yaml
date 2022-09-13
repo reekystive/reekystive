@@ -15,5 +15,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: 'https://wakatime.com/api'
           COMMIT_MESSAGE: 'Update waka-readme graph by GitHub Actions'
           TIME_RANGE: 'last_year'
