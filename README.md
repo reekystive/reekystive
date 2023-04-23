@@ -10,10 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python        19 hrs 29 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-TypeScript    16 hrs 4 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-YAML          10 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Other         10 hrs 3 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Python           19 hrs 29 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+TypeScript       16 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+YAML             10 hrs 16 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Other            10 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
 ```
 
 <!--END_SECTION:waka-->
