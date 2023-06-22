@@ -18,3 +18,4 @@ jobs:
           API_BASE_URL: 'https://wakatime.com/api'
           COMMIT_MESSAGE: 'Update waka-readme graph by GitHub Actions'
           TIME_RANGE: 'last_year'
+          SHOW_TOTAL: true
