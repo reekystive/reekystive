@@ -17,13 +17,13 @@ _(In the past year)_
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 206 hrs 45 mins
+Total Time: 217 hrs 21 mins
 
-TypeScript       71 hrs 19 mins  ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Python           39 hrs 28 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-Other            31 hrs 21 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-YAML             21 hrs 28 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Go               19 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+TypeScript       79 hrs 51 mins  ████████░░░░░░░░░░░░░░░░░   32.11 %
+Python           39 hrs 28 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Other            31 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+YAML             21 hrs 28 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Go               19 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
 ```
 
 <!--END_SECTION:waka-->
