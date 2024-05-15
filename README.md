@@ -28,25 +28,19 @@ Python             59 hrs 55 mins  █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <a href="#">
-    <img alt="My skill icons"
-         src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,kotlin,html,css,nodejs,deno,vue,electron,express,md,regex,bash,docker,kubernetes,git,linux,vim,vscode,nginx,mongodb,postgres,aws,azure,gcp,cloudflare,arduino,fastapi,selenium,flutter,tensorflow,pytorch,github,gitlab,figma,blender,ableton,ae,au,ps,ai" />
-  </a>
-</div>
+<p align="center">
+  <picture>
+    <img alt="My skill icons" src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,kotlin,html,css,nodejs,deno,vue,electron,express,md,regex,bash,docker,kubernetes,git,linux,vim,vscode,nginx,mongodb,postgres,aws,azure,gcp,cloudflare,arduino,fastapi,selenium,flutter,tensorflow,pytorch,github,gitlab,figma,blender,ableton,ae,au,ps,ai" />
+  </picture>
+</p>
 
-<div align="left">
-  <a href="#">
-    <img width="300px" align="left" alt="Profile image"
-         src="https://user-images.githubusercontent.com/26853900/153685219-56022f94-a2ba-4e10-bf61-34213161ba00.png" />
-  </a>
-</div>
+<picture>
+  <img width="300px" align="left" alt="Profile image" src="https://user-images.githubusercontent.com/26853900/153685219-56022f94-a2ba-4e10-bf61-34213161ba00.png" />
+</picture>
 
-<div>
-  <a href="#">
-    <img alt="My GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=reekystive&include_all_commits=true&show_icons=true&hide_rank=true" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reekystive&include_all_commits=true&show_icons=true&hide_rank=true&theme=dark" />
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=reekystive&include_all_commits=true&show_icons=true&hide_rank=true&theme=default" />
+</picture>
 
 `"友達を作りたいですか"`
