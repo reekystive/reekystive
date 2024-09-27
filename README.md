@@ -31,7 +31,7 @@ Other              37 hrs 41 mins  █░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="#">
-    <img alt="My skill icons" src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,kotlin,html,css,nodejs,deno,vue,electron,express,md,regex,bash,docker,kubernetes,git,linux,vim,vscode,nginx,mongodb,postgres,aws,azure,gcp,cloudflare,arduino,fastapi,selenium,flutter,tensorflow,pytorch,github,gitlab,figma,blender,ableton,ae,au,ps,ai" />
+    <img alt="My skill icons" src="https://skillicons.dev/icons?i=cpp,py,js,ts,go,kotlin,nodejs,deno,react,vue,electron,docker,kubernetes,git,linux,vim,vscode,nginx,mongodb,postgres,aws,cloudflare,arduino,selenium,tensorflow,pytorch,figma,blender,ableton,ae" />
   </a>
 </p>
 
