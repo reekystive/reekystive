@@ -18,13 +18,13 @@ _(In the past year)_
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 939 hrs 53 mins
+Total Time: 926 hrs 4 mins
 
-TypeScript         623 hrs 55 mins ████████████████░░░░░░░░░   63.82 %
-JSON               53 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Less               51 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JavaScript         50 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other              37 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript         620 hrs 21 mins ████████████████░░░░░░░░░   64.37 %
+Less               51 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JSON               51 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JavaScript         48 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Other              37 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
