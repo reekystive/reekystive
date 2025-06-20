@@ -4,9 +4,9 @@
 
 - 🕗 Timezone: Asia/Shanghai (UTC+8)
 - 🚘 Living in Shanghai, China
-- 💼 Working at **ByteDance**, a Web Developer related to LLM applications
+- 💼 Working at doubao.com / ciciai.com by **ByteDance** as a Web Developer
 - 🥳 Worked as an Intern related to WebRTC at **ByteDance**
-- 📺 Worked as a Software Development Engineer in Test (SDET) in **bilibili**
+- 📺 Worked as SDET at **bilibili** and Specialist at **Apple**
 - 💻 Apple user, but also loves **Google Pixel** and the Android ecosystem
 - 🎹 I love **music** and like to build stuffs with code
 - 💬 Welcome to chat with me on [Telegram](https://t.me/reekystive) =w=
