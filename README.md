@@ -4,7 +4,7 @@
 
 - 🕗 Timezone: Asia/Shanghai (UTC+8)
 - 🚘 Living in Shanghai, China
-- 💼 Working at doubao.com / cici.com by **ByteDance** as a Web Developer
+- 💼 Working at [doubao.com](https://www.doubao.com) / [cici.com](https://www.cici.com) by **ByteDance** as a Web Developer
 - 🥳 Worked as an Intern related to WebRTC at **ByteDance**
 - 📺 Worked as SDET at **bilibili** and Specialist at **Apple**
 - 💻 Apple user, but also loves **Google Pixel** and the Android ecosystem
