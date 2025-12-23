@@ -13,7 +13,7 @@
 
 ### My Coding Time
 
-_(In the past year)_
+_Below is my coding activities in the past year. [See details here](https://wakatime.com/@3347634c-f4b0-4962-9cc1-36150c178521)_
 
 <!--START_SECTION:waka-->
 
